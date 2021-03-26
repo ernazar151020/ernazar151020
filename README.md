@@ -26,6 +26,6 @@
 <br />
 ## Latest Projects :
 
-TODO LIST: http://ernazar151020.github.io/react-todoList
-[course]: http://vsCodeHero.com
+-TODO LIST: http://ernazar151020.github.io/react-todoList
+
 
