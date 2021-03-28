@@ -26,8 +26,7 @@
 
 <br />
 <br />
-### Latest Projects :
 
--TODO LIST: [TODO-LIST](http://ernazar151020.github.io/react-todoList)
+
 
 
