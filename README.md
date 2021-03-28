@@ -1,4 +1,4 @@
-### Hi there, I'm Ernazar - aka [ernazar151020][website] 👋
+### Hi there, I'm Ernazar  👋
 
 ## I am Front End Developer !!
 
