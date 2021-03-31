@@ -34,6 +34,12 @@
  --> [BANKING WEBSITE ON REACT ](https://react-banking-website.netlify.app/) 
  
   --> [SUSHI WEBSITE ]( https://sushi-ernazar.netlify.app/) 
+  
+   --> [CAKE SHOPPING CART JS/BOOTSRAP ](   https://bootsrap-shopping-cart.netlify.app/) 
+   
+    --> [PORTFOLIO]( https://myportfolioernazar.netlify.app/) 
+  
+
 
 
 
