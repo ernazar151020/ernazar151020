@@ -43,6 +43,8 @@
    
    --> [TODO LIST WITH REACT](    https://ernazar151020.github.io/react-todoList/) 
    
+   --> [Thrivetalk REACT WEBSITE ](https://thrivetalk-react-website.netlify.app//) 
+   
 
   
 
