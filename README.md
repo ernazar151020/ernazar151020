@@ -31,7 +31,7 @@
  
    --> [PORTFOLIO WITH GATSBY JS ](https://ernazar151020.github.io/portfolio/) 
  
-  --> [REACT WEBSITE WITH STYLE COMPONENTS ](https://ernazar151020.github.io/react-website/) 
+  --> [REACT WEBSITE WITH STYLE COMPONENTS ](https://ernazar151020.github.io/react-website/)
  
  --> [BANKING WEBSITE ON REACT ](https://react-banking-website.netlify.app/) 
  
