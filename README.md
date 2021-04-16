@@ -32,7 +32,7 @@
  
   --> [REACT WEBSITE WITH STYLE COMPONENTS ](https://ernazar151020.github.io/react-website/)
   
-    -->[REACT SEARCHING WEBSITE](https://react-serach-project.netlify.app/)
+  -->[REACT SEARCHING WEBSITE](https://react-serach-project.netlify.app/)
  
  --> [BANKING WEBSITE ON REACT ](https://react-banking-website.netlify.app/) 
  
