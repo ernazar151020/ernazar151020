@@ -38,6 +38,8 @@
  
   --> [SUSHI WEBSITE ]( https://sushi-ernazar.netlify.app/) 
   
+ --> [Calculator with JavaScript](https://calculator-js-ernazar.netlify.app/)
+  
    --> [CAKE SHOPPING CART JS/BOOTSRAP ](   https://bootsrap-shopping-cart.netlify.app/) 
       
    --> [SMALL ORDER BOX WITH REACT]( https://ernazar151020.github.io/order-box/) 
