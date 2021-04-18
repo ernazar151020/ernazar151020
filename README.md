@@ -2,7 +2,7 @@
 
 ## I am Front End Developer !!
 
-- 👯 Enthusiastic FrontEnd developer eager to contribute to team success through hard work
+- 👯 Enthusiastic FrontEnd developer eager to contribute to team success 
 - 🥅 2022 Goals: Become a Fullstack Developer
 - ⚡ Fun fact: I love swimming and playing PLAY STATION (PES)
 
