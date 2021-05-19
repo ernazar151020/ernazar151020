@@ -28,9 +28,9 @@
 
 -->[REACT GITHUB SEARCH PROJECT](https://react-githubusers-search.netlify.app/)
 
+-->[LANDING PAGE ULUTSOFT](https://ulutsoft-landing-page.netlify.app/)
+
  --> [SAFE HOUSE ON REACT /STYLED COMPONENTS ](https://ernazar151020.github.io/safe-house/) [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
- 
-   --> [PORTFOLIO WITH GATSBY JS ](https://ernazar151020.github.io/portfolio/) 
  
   --> [REACT WEBSITE WITH STYLE COMPONENTS ](https://ernazar151020.github.io/react-website/)
   
