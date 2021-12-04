@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernazar  👋
 
-## I am Junior Front End Developer !!
+## I am  Front End Developer !!
 
 - 👯 Enthusiastic FrontEnd developer eager to contribute to team success 
 - 🥅 2022 Goals: Become a Fullstack Developer
