@@ -25,9 +25,9 @@
 <br />
 <br />
 
-## LATEST PROJECTS
+<!-- ## LATEST PROJECTS -->
 
--->[REACT GITHUB SEARCH PROJECT](https://react-githubusers-search.netlify.app/)
+<!-- -->[REACT GITHUB SEARCH PROJECT](https://react-githubusers-search.netlify.app/)
 
 -->[LANDING PAGE ULUTSOFT](https://ulutsoft-landing-page.netlify.app/)
 
@@ -54,7 +54,7 @@
 
   
 
-
+ -->
 
 
 
