@@ -2,7 +2,7 @@
 
 ## I am  Front End Developer !!
 
-- 🧑‍💻 Enthusiastic FrontEnd developer
+- 🧑‍💻 Enthusiastic Fullstack(NEST JS💞 , REACT💞) developer
 
 - ⚡ I love swimming , coding and playing PES ⚽🎮
 
