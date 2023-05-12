@@ -2,9 +2,9 @@
 
 ## I am  Front End Developer !!
 
-- 👯 Enthusiastic FrontEnd developer eager to contribute to team success 
+- 🧑‍💻 Enthusiastic FrontEnd developer
 
-- ⚡ Fun fact: I love swimming and playing PLAY STATION (PES)
+- ⚡ I love swimming , coding and playing PES ⚽🎮
 
 <br />
 
