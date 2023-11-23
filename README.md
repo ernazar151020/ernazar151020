@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernazar  👋
 
-## I am  Front End Developer !!
+## I am a Fullstack Developer !!
 
 - 🧑‍💻 Enthusiastic Fullstack(NEST JS💞 , REACT💞) developer
 
